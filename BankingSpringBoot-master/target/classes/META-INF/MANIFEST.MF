@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: Banking App Microservice Example
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Administrator
+Implementation-Vendor-Id: com.p1.example
+Build-Jdk: 1.8.0_281
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/bankingSpringBoot
+Created-By: Maven Integration for Eclipse
+Main-Class: com.p1.example.Main
+
